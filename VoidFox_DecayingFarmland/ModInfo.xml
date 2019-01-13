@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--
+          `\-..``                                              `..++`
+           `/+++//:-`                                     `-://++++`
+            sh+++++++/:.`                              .:/+++++++yh
+            ydds++++++++/:.   ``..++++:::++++..```  `:/++++++++oddh
+            ydddy+++++++++////+++++++++++++++++++///++++++++++sdddh
+            oddddy+++++++++++++++++++++++++++++++++++++++++++sddddy
+            +ddddds+++++++++++++++++++++++++++++++++++++++++odddddo
+            -dddddh+++++++++++++++++++++++++++++++++++++++++hddddd/
+            `dddddh+++++++++++++++++++++++++++++++++++++++++hddddd.
+             yddddo+++++++++++++++++++++++++++++++++++++++++oddddh`
+             -dddo+++++++++++++++++++++++++++++++++++++++++++ohdd/
+              +s+++++++++++++++++++++++++++++++++++++++++++++++s+
+         `.-:/+++++ooshhhhhhhhhhs++++++++++++++++ooossssssoo+++++/:-.`
+        `.:/+++oosssddysssssssssydy+++++++++++osssssssssssssssso+++/:-`
+           `:ossssymyssssssssssssshd++++++++osssssssssssssssssssso/`
+     .::://+ssssssmysssss:`:dhysssshh++++++sssssyhd/`-sssssssssssss+//:::-
+      ./osssssdmmmmsssssss-:dsmssssym+++++sssssomsh/-osssssssssssssssss/.
+ `/:+++:+ssssssdsymssssssss+::-.:ssydo++++ssss/.-::+ssssssssssssssssss+:+++:/.
+ `+++////////++dsshdsssssssssssssssmy+++++sssssssssssssssssssso+++////////++o`
+              `h` `/ds+ossssssssshdys+++++ssssssssssssso/:-.`
+              `h`   `+so+/+syyhddysso+++++ossssssss+:.`
+              `h`      `-:////osssss+++++++ossss+-`
+              `h`              ./ss+++++++++so/`
+              `h`                .ossssssssso.
+              `h`     -:::++..``   :ymmmmmh/`  ``..++::/:
+              `h`    -++++++++o/` ./ohmmmdo/.  /o++++++++:
+              `h`   -++++++++odhshmmmmmhmmmmmdsydy++++++++:
+              `h`  `/+++++++++oyhyso+:` `:+osyhyo++++++++++-
+              `h`  :+++++++++++++/:.`      .-/+++++++++++++/`
+              `h` `++++++++++++++++++//////+++++++++++++++++-
+              `h` -++++++++++++++++o++++++++o+++++++++++++++/
+              `h` /+++++++++++++++mmmdsyshmmms++++++++++++++/`
+              `h` /+++++++++++++++mmmhsysydmms+++++++++++++++`
+              `h` .-:://+++++++++++o++/+++++o+++++++++++/::-.
+              `h`       ``.+++::///////////////:::++..`
+              `s`
+-->
+
+<xml>
+	<ModInfo>
+		<Name value="VoidFox - Decaying Farmland" />
+		<Description value="Farmland decays to normal Dirt after X Days" />
+		<Author value="VoidFox" />
+		<Version value="1.0.0" />
+		<Website value="http://7daystodie.com" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,6 @@
+<VoidFox>
+
+<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@blockname='mineCandyTin'][@prob='0.00015']/@prob">0</set>
+<set xpath="/worldgeneration/biomes/biome[@name='wasteland']/decorations/decoration[@blockname='mineHubcap'][@prob='0.0001']/@prob">0</set>
+
+</VoidFox>

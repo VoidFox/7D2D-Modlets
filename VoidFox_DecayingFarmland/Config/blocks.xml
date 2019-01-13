@@ -1,0 +1,14 @@
+<VoidFox>
+
+<append xpath="/blocks/block[@name='terrFertileFarmland']">
+	<property name="UpgradeRated.ToBlock" value="terrDirt" />
+
+	<!--
+	UpgradeRated.Rate ´s Value (Default: 3) is counted as Days!
+	Possibly buggy if the value is bigger as 63 Days..
+	 -->
+ 	<property name="UpgradeRated.Rate" value="3" />
+
+</append>
+
+</VoidFox>
