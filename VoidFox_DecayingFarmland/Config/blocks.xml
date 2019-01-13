@@ -8,7 +8,7 @@
 	UpgradeRated.Rate ´s Value are Minutes!
 	Every X Minutes theres a Chance for the Farmland to decay into Dirt
 	 -->
- 	<property name="UpgradeRated.Rate" value="40" />
+ 	<property name="UpgradeRated.Rate" value="60" />
 
 </append>
 
