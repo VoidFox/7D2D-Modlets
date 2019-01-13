@@ -1,5 +1,18 @@
 USE AT YOUR OWN RISK!
 
-And feel free to do with it whatever u wish for..
+Feel free to do with it whatever u want..
 
 VoidFox
+
+
+
+MODLETS:
+
+	-> Decaying Farmland
+
+		Farmland now has a Chance to decay into Dirt every X (Default: 40) Minutes.
+
+	-> No Mines in Wasteland
+
+		Exactly what it says in the Title.
+		Newly created Maps will be free of those annoying Deathtraps.
